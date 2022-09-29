@@ -10,10 +10,8 @@ CsvToAnki
         :target: https://travis-ci.com/cvstebut/csvtoanki
 
 .. image:: https://readthedocs.org/projects/csvtoanki/badge/?version=latest
-        :target: https://csvtoanki.readthedocs.io/en/latest/?version=latest
-        :alt: Documentation Status
-
-
+    :target: https://csvtoanki.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
 
 
 Library to assist with importing generated Anki note data
