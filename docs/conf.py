@@ -43,7 +43,7 @@ templates_path = ['_templates']
 source_suffix = '.rst'
 
 # The master toctree document.
-master_doc = 'docs/index'
+master_doc = 'index'
 
 # General information about the project.
 project = 'CsvToAnki'
@@ -69,7 +69,7 @@ language = None
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This patterns also effect to html_static_path and html_extra_path
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.venv','.tox']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', '.venv', '.tox']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
